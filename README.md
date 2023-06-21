@@ -40,32 +40,32 @@ feita em Java) que seja capaz de:
   com O (origem) seguido da posição inicial
 ##Exemplo 1:
 #Conteúdo do arquivo de entrada
-5 8
-1 1 1 1 1 1 1 1
-1 1 0 1 0 1 1 1
-1 1 0 0 0 1 1 1
-X 0 0 1 0 0 0 0
-1 1 1 1 1 1 1 1
-#Conteúdo correto do arquivo saída
-O [4, 1]
-D [4, 2]
-D [4, 3]
-C [3, 3]
-C [2, 3]
-B [3, 3]
-D [3, 4]
-D [3, 5]
-C [2, 5]
-B [3, 5]
-B [4, 5]
-D [4, 6]
-D [4, 7]
-D [4, 8]
-##Exemplo 2:
-#Conteúdo do arquivo de entrada
-8 8
-1 1 1 1 1 1 1 1
-1 0 0 1 0 0 0 1
+5 8<br />
+1 1 1 1 1 1 1 1<br />
+1 1 0 1 0 1 1 1<br />
+1 1 0 0 0 1 1 1<br />
+X 0 0 1 0 0 0 0<br />
+1 1 1 1 1 1 1 1<br />
+#Conteúdo correto do arquivo saída<br />
+O [4, 1]<br />
+D [4, 2]<br />
+D [4, 3]<br />
+C [3, 3]<br />
+C [2, 3]<br />
+B [3, 3]<br />
+D [3, 4]<br />
+D [3, 5]<br />
+C [2, 5]<br />
+B [3, 5]<br />
+B [4, 5]<br />
+D [4, 6]<br />
+D [4, 7]<br />
+D [4, 8]<br />
+##Exemplo 2:<br />
+#Conteúdo do arquivo de entrada<br />
+8 8<br />
+1 1 1 1 1 1 1 1<br />
+1 0 0 1 0 0 0 1<br />
 1 1 0 0 0 1 1 1
 1 0 1 X 0 1 0 1
 1 0 0 0 0 0 0 1
